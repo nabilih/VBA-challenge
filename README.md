@@ -9,4 +9,4 @@ The percent change from opening price at the beginning of a given year to the cl
 The total stock volume of the stock.
 You should also have conditional formatting that will highlight positive change in green and negative change in red.
 
-![Stock Analysis Results - Year 2016](https://github.com/nabilih/VBA-challenge/blob/master/Homa%20Nabili%20-%20Stock%20Analysis%20Results%20-%20Year%202016.png)
+![Stock Analysis Results - Year 2016](C:\Users\Homa\Documents\Homa\Data Analytics Bootcamp\11-Web\1\Images\03-HTML.png)
